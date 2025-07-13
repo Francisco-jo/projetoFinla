@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: com.escola.notas.Main
+Class-Path: lib/gson-2.8.2.jar
+
+

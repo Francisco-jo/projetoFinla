@@ -1,0 +1,12 @@
+[
+  {
+    "matriculaAluno": "22",
+    "codigoDisciplina": "20",
+    "valor": 6.0
+  },
+  {
+    "matriculaAluno": "22",
+    "codigoDisciplina": "10",
+    "valor": 10.0
+  }
+]
